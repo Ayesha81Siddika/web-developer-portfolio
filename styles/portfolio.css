@@ -203,7 +203,7 @@ footer{
     .skills_details{
              flex-direction: column;
     }
-    .bio-container , .items , nav , nav > ul {
+    .bio-container , .banner, .items , nav , nav > ul {
               flex-direction: column;
     }
     .banner{
